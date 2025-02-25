@@ -2,7 +2,7 @@
 service_name: Pillar 2 Roadmap
 
 # The route that will be used to access this site (with tailing slash)
-service_link: /pillar2-roadmap/
+service_link: /roadmaps/pillar2-roadmap/
 
 # ================================================
 # You shouldn't need to edit anything below here
@@ -17,8 +17,7 @@ show_govuk_logo: true
 # Links to show on right-hand-side of header
 header_links:
   Developer Hub: https://developer.service.hmrc.gov.uk
-  Getting started: https://developer.service.hmrc.gov.uk/api-documentation/docs/using-the-hub
-  API documentation: https://developer.service.hmrc.gov.uk/api-documentation/docs/api
+  Documentation: https://developer.service.hmrc.gov.uk/api-documentation/docs/using-the-hub
   Applications: https://developer.service.hmrc.gov.uk/developer/applications
   Support: https://developer.service.hmrc.gov.uk/developer/support
 
