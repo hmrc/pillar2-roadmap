@@ -47,7 +47,7 @@ This table contains details of all planned Pillar 2 releases.
 <td><li>SubmitORN - Submit an Overseas Return Notification</li>
 <li>AmendORN - Amend an Overseas Return Notification</li>
 <li>RetrieveORN - Retrieve an Overseas Return Notification</li>
-<li>Obligations and Submissions - Retrieve due dates for obligations confirmed at Pillar 2 registration (Submit UKTR/BTN, Submit GIR/ORN). Receive submission type, date, how obligations were met (including amendments)</li></td>
+<li>Obligations and Submissions - Retrieve due dates for obligations confirmed at Pillar 2 registration (Submit UKTR/BTN, Submit GIR/ORN). Receive submission type, date, how obligations were met (including amendments).</li></td>
 <td>Scheduled</td>
 <td>Scheduled</td>
 </tr>
