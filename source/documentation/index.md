@@ -79,7 +79,7 @@ This table contains details of all planned Pillar 2 releases.
 </tr>
 <tr>
 <td>6</td>
-<td>GIR - Global Information Return</td>
+<td>GIR - GloBE Information Return</td>
 <td>TBC</td>
 <td>TBC</td>
 </tr>
