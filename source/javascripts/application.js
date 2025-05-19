@@ -8,7 +8,7 @@ if (userConsentCookie) {
     if (consent.preferences?.measurement || consent.preferences?.settings) {
       const googleTagScript = document.createElement('script');
       googleTagScript.async = true;
-      googleTagScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-Y4LWMWY6WS';
+      googleTagScript.src = 'https://www.googletagmanager.com/gtag/js?id=GTM-P39VTVL';
       document.head.appendChild(googleTagScript);
 
       const trackingConfig = document.createElement('script');
@@ -16,7 +16,7 @@ if (userConsentCookie) {
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'G-Y4LWMWY6WS');
+        gtag('config', 'GTM-P39VTVL');
       `;
       document.head.appendChild(trackingConfig);
     }
