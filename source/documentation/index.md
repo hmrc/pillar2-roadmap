@@ -32,19 +32,19 @@ This table contains details of all planned Pillar 2 releases.
 <td>3</td>
 <td>Submit UKTR - Submitting a UK Tax Return</td>
 <td>31/03/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>3</td>
 <td>AmendUKTR - Amending a submitted UK Tax Return</td>
 <td>31/03/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>3</td>
 <td>SubmitBTN - Submitting a Below-Threshold Notification</td>
 <td>31/03/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>4</td>
@@ -56,26 +56,26 @@ This table contains details of all planned Pillar 2 releases.
 <td>5</td>
 <td>Obligations and Submissions - Retrieve due dates for obligations confirmed at Pillar 2 registration (Submit UKTR/BTN, Submit GIR/ORN). Receive submission type, date, obligation type (including amendments).</td>
 <td>30/04/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>5</td>
 <td>SubmitORN - Submit an Overseas Return Notification</td>
 </td>
 <td>31/05/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>5</td>
 <td>AmendORN - Amend an Overseas Return Notification</td>
 <td>31/05/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>5</td>
 <td>RetrieveORN - Retrieve an Overseas Return Notification</td>
 <td>31/05/2025</td>
-<td>TBC</td>
+<td>Autumn 2025</td>
 </tr>
 <tr>
 <td>6</td>
