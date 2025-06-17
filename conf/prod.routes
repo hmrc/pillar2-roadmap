@@ -1,4 +1,4 @@
-->      /                                            health.Routes
+->      /                                   health.Routes
 GET     /roadmaps/pillar2-roadmap           controllers.Default.redirect(to = "/roadmaps/pillar2-roadmap/")
 GET     /roadmaps/pillar2-roadmap/          controllers.Assets.at(path="/public", file="index.html")
 GET     /roadmaps/pillar2-roadmap/*file     controllers.Assets.at(path="/public", file)
