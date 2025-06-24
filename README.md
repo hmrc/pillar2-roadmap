@@ -22,7 +22,7 @@ Requirements:
 * [Docker](https://www.docker.com/)
 
 To live preview:
-```
+```shell
 ./batect preview
 ```
 The local URL and port where the files can be previewed will be output, this is normally http://localhost:4567.
@@ -37,7 +37,7 @@ Requirements:
 * [Node Version Manager][nodenv]
 
 To live preview:
-```
+```shell
 bundle install
 bundle exec middleman serve
 ```
@@ -50,11 +50,12 @@ Requirements:
 * Scala/sbt
 
 ### Build the HTML files
-```
+```shell
 ./batect build
 ```
+
 ### Run the Scala Application
-```
+```shell
 sbt run
 ```
 
@@ -74,8 +75,8 @@ The easiest and safest option would be:
 5. Commit and push changes from your original project.
 
 ### How do I update the Ruby Gems
-To update the Ruby Gems to the latest versions, run
-```
+To update the Ruby Gems to the latest versions, run:
+```shell
 ./batect update
 ```
 This will update the `Gemfile.lock`
@@ -83,7 +84,7 @@ This will update the `Gemfile.lock`
 In some cases, the [latest release](https://github.com/alphagov/tech-docs-gem/releases) of the gem might not be fetched.
 If this happens, edit the Gemfile to specify the latest version explicitly, for example
 ```
-gem 'govuk_tech_docs', '4.4.0'
+gem 'govuk_tech_docs', '5.0.1'
 ```
 and run the update command again. Once updated, remove the explicit version and run the update once more.
 
