@@ -12,7 +12,7 @@ Version 1.0 issued TBC
 
 This roadmap sets out the current release schedule for the Pillar 2 API. 
 
-New features are released into the sandbox for testing which means you can work with example API data to send requests and return responses. Once features have been tested successfully, they are deployed to production where they can be accessed by API consumers. Release dates can be subject to change in order to adapt to project requirements. 
+New features are released into the sandbox for testing, which means you can work with example API data to send requests and return responses. Once features are tested successfully, they are deployed to production to be accessed by API consumers. Release dates are subject to change in order to adapt to project requirements. 
 
 ## Release summary
 
@@ -30,19 +30,19 @@ This table contains details of all planned Pillar 2 releases.
 <tbody>
 <tr>
 <td>3</td>
-<td>Submit UKTR - Submitting a UK Tax Return</td>
+<td>Submit UK Tax Return - Submitting a UK Tax Return</td>
 <td>31/03/2025</td>
 <td>Autumn 2025</td>
 </tr>
 <tr>
 <td>3</td>
-<td>AmendUKTR - Amending a submitted UK Tax Return</td>
+<td>Amend UK Tax Return - Amending a submitted UK Tax Return</td>
 <td>31/03/2025</td>
 <td>Autumn 2025</td>
 </tr>
 <tr>
 <td>3</td>
-<td>SubmitBTN - Submitting a Below-Threshold Notification</td>
+<td>Submit Below-Threshold Notification - Submitting a Below-Threshold Notification</td>
 <td>31/03/2025</td>
 <td>Autumn 2025</td>
 </tr>
@@ -54,26 +54,26 @@ This table contains details of all planned Pillar 2 releases.
 </tr>
 <tr>
 <td>5</td>
-<td>Obligations and Submissions - Retrieve due dates for obligations confirmed at Pillar 2 registration (Submit UKTR/BTN, Submit GIR/ORN). Receive submission type, date, obligation type (including amendments).</td>
+<td>Obligations and Submissions - Retrieve due dates for obligations confirmed at Pillar 2 registration (Submit UK Tax Return/Below-Threshold Notification, Submit GloBE Information Return/Overseas Return Notification). Receive submission type, date, obligation type (including amendments).</td>
 <td>30/04/2025</td>
 <td>Autumn 2025</td>
 </tr>
 <tr>
 <td>5</td>
-<td>SubmitORN - Submit an Overseas Return Notification</td>
+<td>Submit Overseas Return Notification - Submit an Overseas Return Notification</td>
 </td>
 <td>31/05/2025</td>
 <td>Autumn 2025</td>
 </tr>
 <tr>
 <td>5</td>
-<td>AmendORN - Amend an Overseas Return Notification</td>
+<td>Amend Overseas Return Notification - Amend an Overseas Return Notification</td>
 <td>31/05/2025</td>
 <td>Autumn 2025</td>
 </tr>
 <tr>
 <td>5</td>
-<td>RetrieveORN - Retrieve an Overseas Return Notification</td>
+<td>Retrieve Overseas Return Notification - Retrieve an Overseas Return Notification</td>
 <td>31/05/2025</td>
 <td>Autumn 2025</td>
 </tr>
