@@ -32,19 +32,19 @@ This table contains details of all planned Pillar 2 releases.
 <td>3</td>
 <td>Submit UK Tax Return - Submitting a UK Tax Return</td>
 <td>31/03/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Amend UK Tax Return - Amending a submitted UK Tax Return</td>
 <td>31/03/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Submit Below-Threshold Notification - Submitting a Below-Threshold Notification</td>
 <td>31/03/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>4</td>
@@ -56,26 +56,26 @@ This table contains details of all planned Pillar 2 releases.
 <td>5</td>
 <td>Obligations and Submissions - Retrieve due dates for obligations confirmed at Pillar 2 registration (Submit UK Tax Return/Below-Threshold Notification, Submit GloBE Information Return/Overseas Return Notification). Receive submission type, date, obligation type (including amendments).</td>
 <td>30/04/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Submit Overseas Return Notification - Submit an Overseas Return Notification</td>
 </td>
 <td>31/05/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Amend Overseas Return Notification - Amend an Overseas Return Notification</td>
 <td>31/05/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Retrieve Overseas Return Notification - Retrieve an Overseas Return Notification</td>
 <td>31/05/2025</td>
-<td>Autumn 2025</td>
+<td>14/10/2025</td>
 </tr>
 <tr>
 <td>6</td>
