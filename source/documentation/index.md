@@ -5,7 +5,7 @@ weight: 1
 
 # Pillar 2 API Roadmap
 
-Version 1.1 issued TBC
+Version 1.1 issued 13 March 2026
 ***
 
 ## About this roadmap
