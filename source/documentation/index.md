@@ -3,9 +3,9 @@ title: Pillar 2 API Roadmap
 weight: 1
 ---
 
-# Pillar 2 Roadmap
+# Pillar 2 API Roadmap
 
-Version 1.0 issued TBC
+Version 1.1 issued 13 March 2026
 ***
 
 ## About this roadmap
@@ -49,7 +49,7 @@ This table contains details of all planned Pillar 2 releases.
 <tr>
 <td>4</td>
 <td>Account Activity (Penalties, Interest) - Transaction History</td>
-<td>TBC</td>
+<td>05/02/2026</td>
 <td>TBC</td>
 </tr>
 <tr>
@@ -88,6 +88,6 @@ This table contains details of all planned Pillar 2 releases.
 
 ## Related API documentation
 
-You can find general information on the Pillar 2 API in the [service guide](https://developer.service.hmrc.gov.uk/guides/pillar2-service-guide), while the [reference guide](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/pillar2-submission-api/1.0) contains information for developers working on integrating with the Pillar 2 API. 
+You can find general information on the Pillar 2 API in the [Pillar 2 API Service Guide](https://developer.service.hmrc.gov.uk/guides/pillar2-service-guide), while the [Pillar 2 API Reference Guide](https://developer.service.hmrc.gov.uk/api-documentation/docs/api/service/pillar2-submission-api/1.0) contains information for developers working on integrating with the Pillar 2 API. 
 
 
