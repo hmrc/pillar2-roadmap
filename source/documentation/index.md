@@ -50,7 +50,7 @@ This table contains details of all planned Pillar 2 releases.
 <td>4</td>
 <td>Account Activity (Penalties, Interest) - Transaction History</td>
 <td>05/02/2026</td>
-<td>TBC</td>
+<td>31/03/2026</td>
 </tr>
 <tr>
 <td>5</td>
