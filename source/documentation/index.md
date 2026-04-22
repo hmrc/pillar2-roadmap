@@ -80,7 +80,7 @@ This table contains details of all planned Pillar 2 releases.
 <tr>
 <td>6</td>
 <td>GIR - GloBE Information Return</td>
-<td>20/04/2025</td>
+<td>20/04/2026</td>
 <td>TBC</td>
 </tr>
 </tbody>
